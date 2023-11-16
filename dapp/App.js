@@ -425,7 +425,7 @@ function App() {
           </Grid>
           <Grid item container direction="column" justifyContent="flex-start" xs={2}>
             <Button variant="contained" color="primary" onClick={getMine}>
-              Mine
+              Submit
             </Button>
             <Button variant="contained" color="secondary" onClick={getEcalc} style={{ marginTop: '10px' }}>
               Calculate energy
